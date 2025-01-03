@@ -1,6 +1,6 @@
-# Salesforce PDF 扫描工具
+# PDF 扫描工具
 
-该项目是一个基于 Salesforce 的工具，旨在扫描和识别 PDF 文件。它帮助用户自动化提取 PDF 文档中的相关信息，并将其直接存储到 Salesforce 记录中，从而提高工作流程效率。
+该项目是一个基于 pytesseract、PyMuPDF 的PDF扫描的工具，旨在扫描和识别 PDF 文件。它帮助用户自动化提取 PDF 文档中的相关信息，并将其直接存储到 Salesforce 记录中，从而提高工作流程效率。
 
 ## 功能
 
